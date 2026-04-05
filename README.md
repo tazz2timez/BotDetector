@@ -42,6 +42,3 @@ This tool can be used for:
 - Applying cybersecurity concepts in Python  
 
 ---
-
-## 🔥 GitHub Description (short)
-Python-based bot detection system that analyzes user behavior patterns to identify suspicious activity and automate security analysis.
